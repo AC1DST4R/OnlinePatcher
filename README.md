@@ -7,7 +7,7 @@
 
 ## **Installation Instructions**
 
-1. Download the `Patch` from the [release](https://github.com/AC1DST4R/OnlinePatcher/Releases).
+1. Download the `Patch` from the [release](https://github.com/AC1DST4R/OnlinePatcher/releases).
 2. Launch `Patch.exe`.
 3. `Browse` game folder directory.
 4. `Search`
